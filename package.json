@@ -1,0 +1,28 @@
+{
+  "name": "matrialize-practice",
+  "version": "1.0.0",
+  "description": "materialize css practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santrosrana/matrialize-practice.git"
+  },
+  "author": "Santosh Rana Magar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/santrosrana/matrialize-practice/issues"
+  },
+  "homepage": "https://github.com/santrosrana/matrialize-practice#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "browserify": "^16.5.0",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.0.2",
+    "jquery": "^3.4.1",
+    "materialize-css": "^1.0.0"
+  }
+}
