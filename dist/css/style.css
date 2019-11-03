@@ -1,3 +1,9 @@
+div.crr {
+  background-image: url("https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_960_720.jpg") !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right top; }
+
 .materialize-red {
   background-color: #e51c23 !important; }
 
